@@ -1,0 +1,3 @@
+Hey, this is my own document just for refrence i am adding some text to do some pratcice on github and git.
+###########################
+Make sure to commit the cahnges
